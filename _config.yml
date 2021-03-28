@@ -6,4 +6,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-multiple-languages-plugin
 languages: ["en", "pt-pt", "pt-br"]
-exclude: https://code.jquery.com/jquery-1.12.4.min.js
+exclude: <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha256-ZosEbRLbNQzLpnKIkEdrPv7lOy9C27hHQ+Xp8a4MxAQ=" crossorigin="anonymous"></script>
