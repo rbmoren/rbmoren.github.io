@@ -6,3 +6,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-multiple-languages-plugin
 languages: ["en", "pt-pt", "pt-br"]
+exclude: https://code.jquery.com/jquery-1.12.4.min.js
